@@ -4,7 +4,7 @@
 int comp(const void * a, const void * b) 
 { 
     return ( *(int*)b - *(int*)a ); 
-}
+}//his is second commit
 int main()
 {	int T,n,i,j,j1,l,ij,c1,c2,co,m,k,sum=0;
     char x;
