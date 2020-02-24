@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+//third commit by yashpal
 int comp(const void * a, const void * b) 
 { 
     return ( *(int*)b - *(int*)a ); 
